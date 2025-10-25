@@ -126,10 +126,6 @@ public class CricketQuiz {
                 System.out.println("Correct !");
                 score++;
                 break;
-            default:
-                System.out.println("Invalid option");
-                break;
-
         } int ans5;
         while (true) {
             try {
