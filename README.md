@@ -15,7 +15,11 @@ A simple console-based cricket quiz game written in Java. Test your cricket know
    git clone https://github.com/chaudharyaryan825/HelloWorld.git
    javac src/Quiz/CricketQuiz.java
    java -cp src Quiz.CricketQuiz
+
+   
 --------------------WELCOME TO THE CRICKET QUIZ--------------------
+
+
 Q1: When did India win the first ODI World Cup?
 1) 1988
 2) 1990
