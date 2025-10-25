@@ -3,7 +3,7 @@ package Quiz;
 import java.util.Scanner;
 
 public class CricketQuiz {
-    protected String variable = "Aryan";
+    
     public static void main(String[] args) {
         int score = 0;
         Scanner sc = new Scanner(System.in);
